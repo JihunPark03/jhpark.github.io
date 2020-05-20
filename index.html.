@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body{
+                font-family: cursive;
+                background-color: rgb(173, 138, 173);
+            }
+            h1{
+                text-align: center;
+                text-decoration: underline;
+                color: rgb(40, 47, 181);
+            }
+            h3{
+                text-decoration: underline;
+                color: rgb(40, 47, 181);
+            }
+            #a{
+                }
+            #b{
+                font-size:20px;
+                font-weight: lighter;
+                        }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Jihun's Learning Blog</h1>
+        <h2 id="b"><em>This blog is English learning blog that provides Korean translation of all the difficult vocabularies to the brief headlines excerpted from 'New York Times' magazine.</em></h2>
+
+        <h3>Contents</h3>
+        <ul>
+            <li id="a"><a href="#t">May 19th 2020</a></li>
+            <li id="a"><a href="#t1">May 20th 2020</a></li>
+            <li id="a"><a href="#t2">May 21st 2020</a></li>
+            
+            
+        </ul>
+        <h3 id="t">May 19th 2020</h3>
+<ul>
+            <li>U.S.</li>
+                <ol>
+                    <li class="ab"><strong>This Working Man Was Ready to Retire. But the Virus Took him.</strong><br> A journey down several blocks of one Pennsylvania city tells the story of the virus in America - of illness, financial strain and rising tension.
+</li><br>
+                    <li><strong>Ahmaud Arbery’s Killing Will Go to Grand Jury as Graphic Video Emerges</strong><br>Mr. Arbery,25, was killed after two men pursued him in a South Georgia neighborhood, a confrontation that was caught on video. A prosecutor said charges could be considered in the case.<br><br>-Pursue: 뒤쫓다
+                    </li><br>
+                    <li class="ab"><strong>With New Hot Sports Emerging, No Sign of a Respite</strong><br> While cities like New York have seen a hopeful drop in cases, upticks in other major cities and smaller communities have offset those decreases.
+</li><br>-Respite: 일시적인 중단
+                </ol>
+            <li class="ab">World</li>
+            <li class="ab">Politics</li>
+            <li class="ab">Economy</li>
+            <li class="ab">Science</li>
+            
+        </ul>
+
+        <h3 id="t1">May 20th 2020</h3>
+        <ul>
+            <li class="ab">U.S.</li>
+            <li class="ab">World</li>
+            <li class="ab">Politics</li>
+            <li class="ab">Economy</li>
+            <li class="ab">Science</li>
+        </ul>
+
+        <h3 id="t2">May 20th 2020</h3>
+        <ul>
+            <li class="ab">U.S.</li>
+            <li class="ab">World</li>
+            <li class="ab">Politics</li>
+            <li class="ab">Economy</li>
+            <li class="ab">Science</li>
+            
+        </ul>
+        
+    </body>
+</html>
